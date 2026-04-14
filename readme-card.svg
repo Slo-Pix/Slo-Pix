@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 472" width="100%">
+  <!-- Background -->
+  <rect width="940" height="472" rx="8" ry="8" fill="#182747"/>
+
+  <!-- Title bar -->
+  <rect width="940" height="32" rx="8" ry="8" fill="#2a2f3a"/>
+  <rect x="0" y="16" width="940" height="16" fill="#2a2f3a"/>
+  <!-- Traffic dots -->
+  <circle cx="18" cy="16" r="6" fill="#FF605C"/>
+  <circle cx="38" cy="16" r="6" fill="#FFBD44"/>
+  <circle cx="58" cy="16" r="6" fill="#00CA4E"/>
+  <!-- Window title -->
+  <text x="470" y="21" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#515459" font-weight="bold">Shubham_Sharma</text>
+
+  <!-- Content lines (xml:space="preserve" is inherited by all child text elements) -->
+  <g xml:space="preserve" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#abb2bf">
+
+    <!-- line 1: prompt -->
+    <text x="24" y="52">                                                <tspan fill="#FAB95B" font-weight="bold">slopixel@golem:~$ █</tspan></text>
+font-style="italic"
+    <!-- line 2: blank -->
+    <text x="24" y="70"> </text>
+
+    <!-- line 3: Host -->
+    <text x="24" y="88">                                                <tspan fill="#FAB95B" font-style="italic">&gt; Host:</tspan> <tspan fill="#547792">........................</tspan> <tspan fill="#E8E2DB">Shubham Sharma</tspan></text>
+
+    <!-- line 4: Shell -->
+    <text x="24" y="106">                                                <tspan fill="#FAB95B" font-style="italic">&gt; Shell:</tspan> <tspan fill="#547792">.......................</tspan> <tspan fill="#E8E2DB">human 20.10</tspan></text>
+
+    <!-- line 5: OS -->
+    <text x="24" y="124">                    <tspan fill="#FAB95B">+=</tspan> <tspan fill="#FAB95B">=++++=</tspan>                   <tspan fill="#FAB95B" font-style="italic">&gt; OS:</tspan> <tspan fill="#547792">..........................</tspan> <tspan fill="#E8E2DB">Indian-20.05 (native-unstable)</tspan></text>
+
+    <!-- line 6: Uptime -->
+    <text x="24" y="142">             <tspan fill="#FAB95B">...#****++=---*++=</tspan>                 <tspan fill="#FAB95B" font-style="italic">&gt; Uptime:</tspan> <tspan fill="#547792">......................</tspan> <tspan fill="#E8E2DB">20 years, 10 months, 12 days</tspan></text>
+
+    <!-- line 7: Kernel -->
+    <text x="24" y="160">     <tspan fill="#FAB95B">.</tspan>        <tspan fill="#FAB95B">=             *+++* *#**:</tspan>         <tspan fill="#FAB95B">&gt; Kernel:</tspan> <tspan fill="#547792">......................</tspan> <tspan fill="#E8E2DB">Student (ABVIIITM-rc6+)</tspan></text>
+
+    <!-- line 8: IDE -->
+    <text x="24" y="178">                            <tspan fill="#FAB95B">#*=*++**#++  *</tspan>      <tspan fill="#FAB95B" font-style="italic">&gt; IDE:</tspan> <tspan fill="#547792">.........................</tspan> <tspan fill="#E8E2DB">Neovim 0.12.1, VSCode 1.114.0</tspan></text>
+
+    <!-- line 9: ascii only -->
+    <text x="24" y="196">                  <tspan fill="#FAB95B">......:*:-*****+**#=  +*.</tspan></text>
+
+    <!-- line 10: Languages.Programming -->
+    <text x="24" y="214">                      <tspan fill="#FAB95B">.  * # ##*#**+    *+</tspan>      <tspan fill="#FAB95B" font-style="italic">&gt; Languages.Programming:</tspan> <tspan fill="#547792">.......</tspan> <tspan fill="#E8E2DB">C,Python,JS,C++,Bash</tspan></text>
+
+    <!-- line 11: Languages.Computer -->
+    <text x="24" y="232">                        <tspan fill="#FAB95B">#***#**#: **+  :#</tspan>       <tspan fill="#FAB95B" font-style="italic">&gt; Languages.Computer:</tspan> <tspan fill="#547792">..........</tspan> <tspan fill="#E8E2DB">HTML,CSS,JSON,Markdown</tspan></text>
+
+    <!-- line 12: Languages.Real -->
+    <text x="24" y="250">                     <tspan fill="#FAB95B">*+*=#*#=..:::::#***</tspan>        <tspan fill="#FAB95B" font-style="italic">&gt; Languages.Real:</tspan> <tspan fill="#547792">..............</tspan> <tspan fill="#E8E2DB">Hindi, English, Punjabi</tspan></text>
+
+    <!-- line 13: timer -->
+    <text x="24" y="268"> <tspan fill="#FAB95B">#            #</tspan>      <tspan fill="#E8E2DB">#|11.73s|#</tspan>         <tspan fill="#FAB95B">.+</tspan></text>
+
+    <!-- line 14: Hobbies.Software -->
+    <text x="24" y="286">                   <tspan fill="#FAB95B">***.+****+</tspan>                   <tspan fill="#FAB95B" font-style="italic">&gt; Hobbies.Software:</tspan> <tspan fill="#547792">............</tspan> <tspan fill="#E8E2DB">Open Source, Reverse Engineering, Low level </tspan></text>
+
+    <!-- line 15: continuation (Cybersecurity) -->
+    <text x="24" y="304">     <tspan fill="#FAB95B">##         * :***+# +***#++</tspan>                                    <tspan fill="#547792">............</tspan> <tspan fill="#E8E2DB">systems, Cybersecurity, Code Obfuscation</tspan></text>
+
+    <!-- line 16: Hobbies.Others -->
+    <text x="24" y="322">                 <tspan fill="#FAB95B">.*##+     +*** +=</tspan>              <tspan fill="#FAB95B" font-style="italic">&gt; Hobbies.Others:</tspan> <tspan fill="#547792">..............</tspan> <tspan fill="#E8E2DB">Music(Guitar), Football, Athletics(100m)</tspan></text>
+
+    <!-- line 17: ascii only -->
+    <text x="24" y="340">              <tspan fill="#FAB95B">##*******#*******+</tspan></text>
+
+    <!-- line 18: Contact header -->
+    <text x="24" y="358">          <tspan fill="#FAB95B"># **#   **</tspan>                              <tspan fill="#3e4451">────────────────────</tspan> <tspan fill="#FAB95B" font-weight="bold">Contact</tspan> <tspan fill="#3e4451">───────────────────</tspan></text>
+
+    <!-- line 19: Email.Personal -->
+    <text x="24" y="376">          <tspan fill="#FAB95B">*** -    **</tspan>                           <tspan fill="#FAB95B" font-style="italic">&gt; Email.Personal:</tspan> <tspan fill="#547792">.............</tspan> <tspan fill="#E8E2DB">shubham040605@gmail.com</tspan></text>
+
+    <!-- line 20: Email.Work -->
+    <text x="24" y="394">         <tspan fill="#FAB95B">* #</tspan>                                    <tspan fill="#FAB95B" font-style="italic">&gt; Email.Work:</tspan> <tspan fill="#547792">.................</tspan> <tspan fill="#E8E2DB">slopixelz@gmail.com</tspan></text>
+
+    <!-- line 21: GitHub -->
+    <text x="24" y="412">      <tspan fill="#FAB95B">*-**</tspan>                                      <tspan fill="#FAB95B" font-style="italic">&gt; GitHub:</tspan> <tspan fill="#547792">.....................</tspan> <tspan fill="#E8E2DB">github.com/Slo-Pix</tspan></text>
+
+    <!-- line 22: Medium -->
+    <text x="24" y="430">     <tspan fill="#FAB95B">*.</tspan>                                         <tspan fill="#FAB95B" font-style="italic">&gt; Medium:</tspan> <tspan fill="#547792">.....................</tspan> <tspan fill="#E8E2DB">medium.com/@slopixelz</tspan></text>
+
+    <!-- line 23: LinkedIn -->
+    <text x="24" y="448">                                                <tspan fill="#FAB95B" font-style="italic">&gt; LinkedIn</tspan> <tspan fill="#547792">....................</tspan> <tspan fill="#E8E2DB">linkedin.com/in/shubh465/</tspan></text>
+
+  </g>
+</svg>

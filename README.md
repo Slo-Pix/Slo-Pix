@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="readme-card.svg" alt="shubham@golem:~$" />
+  <img src="readme-card.svg" alt="shubham@golem:~$" style="max-width: 100%; height: auto;/>
 </div>
 
 ## > Build. Break. Learn. Repeat.

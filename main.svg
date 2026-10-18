@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1056" width="1200" height="1056" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace">
+<title>slopixel@golem</title>
+<style>
+  text { white-space: pre; }
+  .ttl { fill: #c9b3f5; font-size: 15px; font-weight: bold; }
+  .hdr { fill: #8b8ba7; font-size: 14px; }
+  .itm { fill: #ececf5; font-size: 14px; font-weight: bold; }
+  .dtl { fill: #a9a9c2; font-weight: normal; }
+  .note { fill: #74748e; font-weight: normal; }
+  .ico { fill: #b8a4e3; }
+  .off { fill: #e3d38c; font-size: 14px; }
+  .offd { fill: #b9ad7a; }
+  .sel { fill: #4b3a70; font-size: 14px; font-weight: bold; }
+  .seld { fill: #5e4a87; font-weight: normal; }
+  .art { fill: #b8a4e3; font-size: 11px; }
+  .key { fill: #8b8ba7; font-size: 13px; }
+  .kb { fill: #d9c8fb; font-weight: bold; }
+</style>
+
+<!-- backdrop -->
+<rect width="1200" height="1056" fill="#1b1b29"/>
+<path d="M8 0v1056 M14 0v1056 M1192 0v1056 M1186 0v1056 M0 270h6 M1194 786h6" stroke="#2c2c40" stroke-width="1"/>
+
+<!-- ═════════ top card: art left, text right ═════════ -->
+<g>
+<!-- ───────── left pane: golem ───────── -->
+<rect x="20.5" y="24.5" width="390" height="491" rx="6" fill="#1e1e2e" stroke="#b8a4e3" stroke-width="1.2"/>
+<rect x="34" y="44" width="363" height="458" fill="#232334"/>
+
+<g class="art" xml:space="preserve">
+<text x="76" y="104">                   += =++++=</text>
+<text x="76" y="123">            ...#****++=---*++=</text>
+<text x="76" y="142">    .        =             *+++* *#**:</text>
+<text x="76" y="161">                           #*=*++**#++  *</text>
+<text x="76" y="180">                 ......:*:-*****+**#=  +*.</text>
+<text x="76" y="199">                     .  * # ##*#**+    *+</text>
+<text x="76" y="218">                       #***#**#: **+  :#</text>
+<text x="76" y="237">                    *+*=#*#=..:::::#***</text>
+<text x="76" y="256">#            #      #######         .+</text>
+<text x="76" y="275">                  ***.+****+</text>
+<text x="76" y="294">    ##         * :***+# +***#++</text>
+<text x="76" y="313">                .*##+     +*** +=</text>
+<text x="76" y="332">             ##*******#*******+</text>
+<text x="76" y="351">         # **#   **</text>
+<text x="76" y="370">         *** -    **</text>
+<text x="76" y="389">        * #</text>
+<text x="76" y="408">     *-**</text>
+<text x="76" y="427">    *.</text>
+</g>
+
+
+<!-- ───────── right pane: slopixel@golem ───────── -->
+<rect x="426.5" y="24.5" width="753" height="491" rx="6" fill="#1e1e2e" stroke="#b8a4e3" stroke-width="1.2"/>
+<rect x="440" y="44" width="726" height="458" fill="#232334"/>
+
+<g xml:space="preserve">
+<text x="452" y="66" class="itm"><tspan fill="#c9b3f5">slopixel:~$ </tspan></text>
+<rect x="554" y="54" width="8" height="15" fill="#c9b3f5"/>
+
+<text x="452" y="104" class="hdr">System</text>
+<text x="452" y="125" class="itm">Shubham Sharma <tspan class="dtl">(root)</tspan></text>
+
+<text x="452" y="167" class="hdr">Languages</text>
+<text x="452" y="188" class="itm"><tspan class="ico">»</tspan> programming</text>
+<text x="600" y="188" class="itm"><tspan class="dtl">C, Python, JS, C++, Bash</tspan></text>
+<text x="452" y="209" class="itm"><tspan class="ico">»</tspan> real</text>
+<text x="600" y="209" class="itm"><tspan class="dtl">Hindi, English</tspan></text>
+
+<text x="452" y="251" class="hdr">Hobbies</text>
+<text x="452" y="272" class="itm"><tspan class="ico">»</tspan> software</text>
+<text x="600" y="272" class="itm"><tspan class="dtl">Open Source, Reverse Engineering, Cybersecurity,</tspan></text>
+<text x="600" y="293" class="itm"><tspan class="dtl">Designing, Web Development, Low-level Systems,</tspan></text>
+<text x="600" y="314" class="itm"><tspan class="dtl">Code Obfuscation</tspan></text>
+<text x="452" y="335" class="itm"><tspan class="ico">»</tspan> others</text>
+<text x="600" y="335" class="itm"><tspan class="dtl">Music/Guitar, Football, Athletics (100m)</tspan></text>
+
+<text x="452" y="377" class="hdr">Contact</text>
+<text x="452" y="398" class="off"><tspan class="ico">»</tspan> email</text>
+<text x="600" y="398" class="off"><tspan class="offd">shubham040605@gmail.com</tspan></text>
+<text x="452" y="419" class="off"><tspan class="ico">»</tspan> github</text>
+<text x="600" y="419" class="off"><tspan class="offd">github.com/Slo-Pix</tspan></text>
+<text x="452" y="440" class="off"><tspan class="ico">»</tspan> medium</text>
+<text x="600" y="440" class="off"><tspan class="offd">medium.com/@slopixelz</tspan></text>
+<text x="452" y="461" class="off"><tspan class="ico">»</tspan> linkedin</text>
+<text x="600" y="461" class="off"><tspan class="offd">linkedin.com/in/shubh465</tspan></text>
+<rect x="440" y="467" width="726" height="21" fill="#c4a8ef"/>
+<text x="452" y="482" class="sel">» portfolio</text>
+<text x="600" y="482" class="sel"><tspan class="seld">shubham465.vercel.app</tspan></text>
+</g>
+
+</g>
+
+<!-- ═════════ bottom card: text left, art right ═════════ -->
+<g transform="translate(-406 516)">
+<!-- ───────── right pane: slopixel@golem ───────── -->
+<rect x="426.5" y="24.5" width="753" height="491" rx="6" fill="#1e1e2e" stroke="#b8a4e3" stroke-width="1.2"/>
+<rect x="440" y="44" width="726" height="458" fill="#232334"/>
+
+<!-- quote -->
+<g xml:space="preserve">
+<text x="803" y="283" text-anchor="middle" font-size="28" font-weight="bold" fill="#ececf5">//TODO - insert quote</text>
+</g>
+
+<!-- footer hints in bottom border -->
+<rect x="437" y="506" width="253" height="20" fill="#1b1b29"/>
+<text x="446" y="520" class="key" xml:space="preserve">Build · Break · Learn · Repeat</text>
+</g>
+<g transform="translate(769 516)">
+<!-- ───────── left pane: golem ───────── -->
+<rect x="20.5" y="24.5" width="390" height="491" rx="6" fill="#1e1e2e" stroke="#b8a4e3" stroke-width="1.2"/>
+<rect x="34" y="44" width="363" height="458" fill="#232334"/>
+
+<g class="art" xml:space="preserve" transform="translate(215.5 182) scale(0.68) translate(-215.5 -271.5)">
+<text x="77" y="113">                                  .::+++*+</text>
+<text x="77" y="126">                       ..::++**##########*</text>
+<text x="77" y="139">             .::+++**####################*</text>
+<text x="77" y="152">          :##############################*</text>
+<text x="77" y="165">          :#####################***++*###*</text>
+<text x="77" y="178">          :###########**++::..       +###*</text>
+<text x="77" y="191">          :####+::.                  +###*</text>
+<text x="77" y="204">          :####                      +###*</text>
+<text x="77" y="217">          :####                      +###*</text>
+<text x="77" y="230">          :####                      +###*</text>
+<text x="77" y="243">          :####                      +###*</text>
+<text x="77" y="256">          :####                      +###*</text>
+<text x="77" y="269">          :####                      +###*</text>
+<text x="77" y="282">          :####                      +###*</text>
+<text x="77" y="295">          :####                      +###*</text>
+<text x="77" y="308">          :####                      +###*</text>
+<text x="77" y="321">          :####                      +###*</text>
+<text x="77" y="334">          :####                      +###*</text>
+<text x="77" y="347">          :####               .:+**######*</text>
+<text x="77" y="360">          :####             +############*</text>
+<text x="77" y="373">          :####           .##############:</text>
+<text x="77" y="386">   .:+*########           .############*.</text>
+<text x="77" y="399"> +#############            .+**###**+:</text>
+<text x="77" y="412">*#############+</text>
+<text x="77" y="425">############*:</text>
+<text x="77" y="438"> :+*****++:</text>
+</g>
+
+<!-- now playing -->
+<g xml:space="preserve">
+<text x="50" y="336" class="hdr">Now Playing</text>
+<text x="50" y="360" class="itm">It Works On My Machine</text>
+<text x="50" y="380" class="itm"><tspan class="dtl">The Deployers</tspan></text>
+<rect x="50" y="403" width="331" height="3" rx="1.5" fill="#3a3a52"/>
+<rect x="50" y="403" width="218" height="3" rx="1.5" fill="#c4a8ef"/>
+<circle cx="268" cy="404.5" r="5" fill="#d9c8fb"/>
+<text x="50" y="428" class="key">4:04</text>
+<text x="381" y="428" class="key" text-anchor="end">6:23</text>
+<rect x="34" y="458" width="363" height="21" fill="#c4a8ef"/>
+<text x="215.5" y="473" class="sel" text-anchor="middle">|◀     ▮▮     ▶|</text>
+</g>
+
+<rect x="256" y="506" width="86" height="20" fill="#1b1b29"/>
+<text x="264" y="520" class="key" xml:space="preserve">/<tspan class="kb">Slo-Pix</tspan>/</text>
+
+</g>
+</svg>

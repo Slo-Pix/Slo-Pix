@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="readme-card.svg" alt="slopixel@golem:~$" style="max-width: 100%; height: auto;" />
+  <img src="main.svg" alt="slopixel@golem:~$" style="max-width: 100%; height: auto;" />
 </div>
 
 ## > Build. Break. Learn. Repeat.

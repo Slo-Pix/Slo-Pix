@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" width="1200" height="540" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace">
+<title>slopixel@golem</title>
+<style>
+  text { white-space: pre; }
+  .ttl { fill: #c9b3f5; font-size: 15px; font-weight: bold; }
+  .hdr { fill: #8b8ba7; font-size: 14px; }
+  .itm { fill: #ececf5; font-size: 14px; font-weight: bold; }
+  .dtl { fill: #a9a9c2; font-weight: normal; }
+  .note { fill: #74748e; font-weight: normal; }
+  .ico { fill: #b8a4e3; }
+  .off { fill: #e3d38c; font-size: 14px; }
+  .offd { fill: #b9ad7a; }
+  .sel { fill: #4b3a70; font-size: 14px; font-weight: bold; }
+  .seld { fill: #5e4a87; font-weight: normal; }
+  .art { fill: #b8a4e3; font-size: 11px; }
+  .key { fill: #8b8ba7; font-size: 13px; }
+  .kb { fill: #d9c8fb; font-weight: bold; }
+</style>
+
+<!-- backdrop -->
+<rect width="1200" height="540" fill="#1b1b29"/>
+<path d="M8 0v540 M14 0v540 M1192 0v540 M1186 0v540 M0 270h6 M1194 258h6" stroke="#2c2c40" stroke-width="1"/>
+
+<!-- ───────── left pane: golem ───────── -->
+<rect x="20.5" y="24.5" width="390" height="491" rx="6" fill="#1e1e2e" stroke="#b8a4e3" stroke-width="1.2"/>
+<rect x="34" y="44" width="363" height="458" fill="#232334"/>
+
+<g class="art" xml:space="preserve">
+<text x="76" y="104">                   += =++++=</text>
+<text x="76" y="123">            ...#****++=---*++=</text>
+<text x="76" y="142">    .        =             *+++* *#**:</text>
+<text x="76" y="161">                           #*=*++**#++  *</text>
+<text x="76" y="180">                 ......:*:-*****+**#=  +*.</text>
+<text x="76" y="199">                     .  * # ##*#**+    *+</text>
+<text x="76" y="218">                       #***#**#: **+  :#</text>
+<text x="76" y="237">                    *+*=#*#=..:::::#***</text>
+<text x="76" y="256">#            #      #######         .+</text>
+<text x="76" y="275">                  ***.+****+</text>
+<text x="76" y="294">    ##         * :***+# +***#++</text>
+<text x="76" y="313">                .*##+     +*** +=</text>
+<text x="76" y="332">             ##*******#*******+</text>
+<text x="76" y="351">         # **#   **</text>
+<text x="76" y="370">         *** -    **</text>
+<text x="76" y="389">        * #</text>
+<text x="76" y="408">     *-**</text>
+<text x="76" y="427">    *.</text>
+</g>
+
+<rect x="256" y="506" width="86" height="20" fill="#1b1b29"/>
+<text x="264" y="520" class="key" xml:space="preserve">/<tspan class="kb">Slo-Pix</tspan>/</text>
+
+<!-- ───────── right pane: slopixel@golem ───────── -->
+<rect x="426.5" y="24.5" width="753" height="491" rx="6" fill="#1e1e2e" stroke="#b8a4e3" stroke-width="1.2"/>
+<rect x="440" y="44" width="726" height="458" fill="#232334"/>
+
+<g xml:space="preserve">
+<text x="452" y="66" class="itm"><tspan fill="#c9b3f5">slopixel:~$ </tspan></text>
+<rect x="554" y="54" width="8" height="15" fill="#c9b3f5"/>
+
+<text x="452" y="104" class="hdr">System</text>
+<text x="452" y="125" class="itm">Shubham Sharma <tspan class="dtl">(root)</tspan></text>
+
+<text x="452" y="167" class="hdr">Languages</text>
+<text x="452" y="188" class="itm"><tspan class="ico">»</tspan> programming</text>
+<text x="600" y="188" class="itm"><tspan class="dtl">C, Python, JS, C++, Bash</tspan></text>
+<text x="452" y="209" class="itm"><tspan class="ico">»</tspan> real</text>
+<text x="600" y="209" class="itm"><tspan class="dtl">Hindi, English</tspan></text>
+
+<text x="452" y="251" class="hdr">Hobbies</text>
+<text x="452" y="272" class="itm"><tspan class="ico">»</tspan> software</text>
+<text x="600" y="272" class="itm"><tspan class="dtl">Open Source, Reverse Engineering, Cybersecurity,</tspan></text>
+<text x="600" y="293" class="itm"><tspan class="dtl">Designing, Web Development, Low-level Systems,</tspan></text>
+<text x="600" y="314" class="itm"><tspan class="dtl">Code Obfuscation</tspan></text>
+<text x="452" y="335" class="itm"><tspan class="ico">»</tspan> others</text>
+<text x="600" y="335" class="itm"><tspan class="dtl">Music/Guitar, Football, Athletics (100m)</tspan></text>
+
+<text x="452" y="377" class="hdr">Contact</text>
+<text x="452" y="398" class="off"><tspan class="ico">»</tspan> email</text>
+<text x="600" y="398" class="off"><tspan class="offd">shubham040605@gmail.com</tspan></text>
+<text x="452" y="419" class="off"><tspan class="ico">»</tspan> github</text>
+<text x="600" y="419" class="off"><tspan class="offd">github.com/Slo-Pix</tspan></text>
+<text x="452" y="440" class="off"><tspan class="ico">»</tspan> medium</text>
+<text x="600" y="440" class="off"><tspan class="offd">medium.com/@slopixelz</tspan></text>
+<text x="452" y="461" class="off"><tspan class="ico">»</tspan> linkedin</text>
+<text x="600" y="461" class="off"><tspan class="offd">linkedin.com/in/shubh465</tspan></text>
+<rect x="440" y="467" width="726" height="21" fill="#c4a8ef"/>
+<text x="452" y="482" class="sel">» portfolio</text>
+<text x="600" y="482" class="sel"><tspan class="seld">shubham465.vercel.app</tspan></text>
+</g>
+
+<!-- footer hints in bottom border -->
+<rect x="916" y="506" width="253" height="20" fill="#1b1b29"/>
+<text x="1160" y="520" class="key" text-anchor="end" xml:space="preserve">Build · Break · Learn · Repeat</text>
+</svg>

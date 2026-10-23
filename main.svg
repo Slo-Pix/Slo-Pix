@@ -10,6 +10,7 @@
   .ico { fill: #ffa657; }
   .off { fill: #79c0ff; font-size: 14px; }
   .offd { fill: #58a6ff; }
+  .contact-key { fill: #e6edf3; font-size: 14px; font-weight: bold; }
   .sel { fill: #0d1117; font-size: 14px; font-weight: bold; }
   .seld { fill: #3d2200; font-weight: normal; }
   .art { fill: #ffa657; font-size: 11px; }
@@ -98,17 +99,16 @@
 <text x="600" y="335" class="itm"><tspan class="dtl">Music/Guitar, Football, Athletics (100m)</tspan></text>
 
 <text x="452" y="377" class="hdr">Contact</text>
-<text x="452" y="398" class="off"><tspan class="ico">»</tspan> email</text>
+<text x="452" y="398" class="contact-key"><tspan class="ico">»</tspan> email</text>
 <text x="600" y="398" class="off"><tspan class="offd">shubham040605@gmail.com</tspan></text>
-<text x="452" y="419" class="off"><tspan class="ico">»</tspan> github</text>
+<text x="452" y="419" class="contact-key"><tspan class="ico">»</tspan> github</text>
 <text x="600" y="419" class="off"><tspan class="offd">github.com/Slo-Pix</tspan></text>
-<text x="452" y="440" class="off"><tspan class="ico">»</tspan> medium</text>
+<text x="452" y="440" class="contact-key"><tspan class="ico">»</tspan> medium</text>
 <text x="600" y="440" class="off"><tspan class="offd">medium.com/@slopixelz</tspan></text>
-<text x="452" y="461" class="off"><tspan class="ico">»</tspan> linkedin</text>
+<text x="452" y="461" class="contact-key"><tspan class="ico">»</tspan> linkedin</text>
 <text x="600" y="461" class="off"><tspan class="offd">linkedin.com/in/shubh465</tspan></text>
-<rect x="440" y="467" width="726" height="21" fill="#f0883e"/>
-<text x="452" y="482" class="sel">» portfolio</text>
-<text x="600" y="482" class="sel"><tspan class="seld">shubham465.vercel.app</tspan></text>
+<text x="452" y="482" class="contact-key"><tspan class="ico">»</tspan> portfolio</text>
+<text x="600" y="482" class="off"><tspan class="offd">shubham465.vercel.app</tspan></text>
 </g>
 
 </g>
